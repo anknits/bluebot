@@ -1,0 +1,25 @@
+{
+  "name": "bluebot",
+  "version": "1.0.0",
+  "description": "a bot that can google search and remember search history",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anknits/bluebot.git"
+  },
+  "keywords": [
+    "bluestacks",
+    "discord",
+    "bot",
+    "search-bot"
+  ],
+  "author": "Ankur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anknits/bluebot/issues"
+  },
+  "homepage": "https://github.com/anknits/bluebot#readme"
+}
